@@ -1,0 +1,31 @@
+{
+  "accounts": [
+    {
+      "name": "account1",
+      "cookies": {
+        "sessionid": "YOUR_SESSION_ID_HERE",
+        "csrftoken": "YOUR_CSRF_TOKEN_HERE",
+        "ds_user_id": "YOUR_USER_ID_HERE",
+        "rur": "YOUR_RUR_COOKIE_HERE"
+      },
+      "session_id": "YOUR_SESSION_ID_HERE",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    },
+    {
+      "name": "account2",
+      "cookies": {
+        "sessionid": "ANOTHER_SESSION_ID",
+        "csrftoken": "ANOTHER_CSRF_TOKEN",
+        "ds_user_id": "ANOTHER_USER_ID",
+        "rur": "ANOTHER_RUR_COOKIE"
+      },
+      "session_id": "ANOTHER_SESSION_ID",
+      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+  ]
+}
+
+
+
+
+

@@ -1,0 +1,28 @@
+{
+  "proxies": [
+    {
+      "host": "proxy1.example.com",
+      "port": 8080,
+      "username": "proxy_user",
+      "password": "proxy_password",
+      "protocol": "http"
+    },
+    {
+      "host": "proxy2.example.com",
+      "port": 3128,
+      "protocol": "http"
+    },
+    {
+      "host": "proxy3.example.com",
+      "port": 1080,
+      "username": "user",
+      "password": "pass",
+      "protocol": "socks5"
+    }
+  ]
+}
+
+
+
+
+

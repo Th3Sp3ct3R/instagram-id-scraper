@@ -1,0 +1,291 @@
+2025-11-14 10:13:27,830 - instagram_scraper - INFO - Attempt 1/3 for @sza using account account1
+2025-11-14 10:13:28,440 - instagram_scraper - INFO - Successfully fetched ID for @sza via profilePage pattern: 41195698
+2025-11-14 10:13:33,041 - instagram_scraper - INFO - Attempt 1/3 for @hermusicofficial using account account1
+2025-11-14 10:13:33,778 - instagram_scraper - INFO - Successfully fetched ID for @hermusicofficial via profilePage pattern: 3914720657
+2025-11-14 10:13:38,587 - instagram_scraper - INFO - Attempt 1/3 for @summerwalker using account account1
+2025-11-14 10:13:40,133 - instagram_scraper - INFO - Successfully fetched ID for @summerwalker via profilePage pattern: 393014120
+2025-11-14 10:13:43,773 - instagram_scraper - INFO - Attempt 1/3 for @jheneaiko using account account1
+2025-11-14 10:13:44,431 - instagram_scraper - INFO - Successfully fetched ID for @jheneaiko via profilePage pattern: 16085990
+2025-11-14 10:13:48,245 - instagram_scraper - INFO - Attempt 1/3 for @temsbaby using account account1
+2025-11-14 10:13:49,852 - instagram_scraper - INFO - Successfully fetched ID for @temsbaby via profilePage pattern: 493119576
+2025-11-14 10:13:53,651 - instagram_scraper - INFO - Attempt 1/3 for @kehlani using account account1
+2025-11-14 10:13:54,267 - instagram_scraper - INFO - Successfully fetched ID for @kehlani via profilePage pattern: 8253854
+2025-11-14 10:13:58,851 - instagram_scraper - INFO - Attempt 1/3 for @ellamai using account account1
+2025-11-14 10:13:59,541 - instagram_scraper - INFO - Successfully fetched ID for @ellamai via profilePage pattern: 513228537
+2025-11-14 10:14:02,210 - instagram_scraper - INFO - Attempt 1/3 for @tinashe using account account1
+2025-11-14 10:14:03,031 - instagram_scraper - INFO - Successfully fetched ID for @tinashe via profilePage pattern: 7133847
+2025-11-14 10:14:06,699 - instagram_scraper - INFO - Attempt 1/3 for @arianagrande using account account1
+2025-11-14 10:14:07,339 - instagram_scraper - INFO - Successfully fetched ID for @arianagrande via profilePage pattern: 7719696
+2025-11-14 10:14:09,398 - instagram_scraper - INFO - Attempt 1/3 for @chloebailey using account account1
+2025-11-14 10:14:10,337 - instagram_scraper - INFO - Successfully fetched ID for @chloebailey via profilePage pattern: 45238803571
+2025-11-14 10:14:13,917 - instagram_scraper - INFO - Attempt 1/3 for @hallebailey using account account1
+2025-11-14 10:14:14,571 - instagram_scraper - INFO - Successfully fetched ID for @hallebailey via profilePage pattern: 45383061023
+2025-11-14 10:14:17,786 - instagram_scraper - INFO - Attempt 1/3 for @normani using account account1
+2025-11-14 10:14:18,423 - instagram_scraper - INFO - Successfully fetched ID for @normani via profilePage pattern: 6973354
+2025-11-14 10:14:21,809 - instagram_scraper - INFO - Attempt 1/3 for @queenNaija using account account1
+2025-11-14 10:14:22,632 - instagram_scraper - INFO - Successfully fetched ID for @queenNaija via profilePage pattern: 4218033213
+2025-11-14 10:14:26,483 - instagram_scraper - INFO - Attempt 1/3 for @victoriamonet using account account1
+2025-11-14 10:14:27,190 - instagram_scraper - INFO - Successfully fetched ID for @victoriamonet via profilePage pattern: 13906642
+2025-11-14 10:14:31,119 - instagram_scraper - INFO - Attempt 1/3 for @cocojones using account account1
+2025-11-14 10:14:31,872 - instagram_scraper - INFO - Successfully fetched ID for @cocojones via profilePage pattern: 50435218
+2025-11-14 10:14:35,045 - instagram_scraper - INFO - Attempt 1/3 for @sabrinaclaudio using account account1
+2025-11-14 10:14:35,760 - instagram_scraper - INFO - Successfully fetched ID for @sabrinaclaudio via profilePage pattern: 48120489
+2025-11-14 10:14:39,273 - instagram_scraper - INFO - Attempt 1/3 for @tink using account account1
+2025-11-14 10:14:40,061 - instagram_scraper - INFO - Successfully fetched ID for @tink via profilePage pattern: 3623754848
+2025-11-14 10:14:44,835 - instagram_scraper - INFO - Attempt 1/3 for @sevyn using account account1
+2025-11-14 10:14:45,526 - instagram_scraper - INFO - Successfully fetched ID for @sevyn via profilePage pattern: 182236751
+2025-11-14 10:14:49,309 - instagram_scraper - INFO - Attempt 1/3 for @justineskye using account account1
+2025-11-14 10:14:50,051 - instagram_scraper - INFO - Successfully fetched ID for @justineskye via profilePage pattern: 10950425
+2025-11-14 10:14:53,257 - instagram_scraper - INFO - Attempt 1/3 for @annmarie using account account1
+2025-11-14 10:14:54,000 - instagram_scraper - INFO - Successfully fetched ID for @annmarie via profilePage pattern: 145301441
+2025-11-14 10:14:56,712 - instagram_scraper - INFO - Attempt 1/3 for @arilennox using account account1
+2025-11-14 10:14:57,662 - instagram_scraper - INFO - Successfully fetched ID for @arilennox via profilePage pattern: 2278001831
+2025-11-14 10:15:01,710 - instagram_scraper - INFO - Attempt 1/3 for @mariahcarey using account account1
+2025-11-14 10:15:02,303 - instagram_scraper - INFO - Successfully fetched ID for @mariahcarey via profilePage pattern: 52142935
+2025-11-14 10:15:05,141 - instagram_scraper - INFO - Attempt 1/3 for @maryjblige using account account1
+2025-11-14 10:15:05,777 - instagram_scraper - WARNING - Failed to fetch ID for @maryjblige: Status 200
+2025-11-14 10:15:05,778 - instagram_scraper - INFO - Waiting 3.85s before retry...
+2025-11-14 10:15:09,633 - instagram_scraper - INFO - Attempt 2/3 for @maryjblige using account account1
+2025-11-14 10:15:10,249 - instagram_scraper - WARNING - Failed to fetch ID for @maryjblige: Status 200
+2025-11-14 10:15:10,250 - instagram_scraper - INFO - Waiting 4.00s before retry...
+2025-11-14 10:15:14,253 - instagram_scraper - INFO - Attempt 3/3 for @maryjblige using account account1
+2025-11-14 10:15:14,884 - instagram_scraper - WARNING - Failed to fetch ID for @maryjblige: Status 200
+2025-11-14 10:15:14,885 - instagram_scraper - ERROR - Failed to fetch ID for @maryjblige after 3 attempts
+2025-11-14 10:15:17,876 - instagram_scraper - INFO - Attempt 1/3 for @ciara using account account1
+2025-11-14 10:15:18,466 - instagram_scraper - INFO - Successfully fetched ID for @ciara via profilePage pattern: 27914637
+2025-11-14 10:15:20,641 - instagram_scraper - INFO - Attempt 1/3 for @teyanataylor using account account1
+2025-11-14 10:15:21,299 - instagram_scraper - INFO - Successfully fetched ID for @teyanataylor via profilePage pattern: 19077223
+2025-11-14 10:15:26,061 - instagram_scraper - INFO - Attempt 1/3 for @officialjordin using account account1
+2025-11-14 10:15:26,732 - instagram_scraper - INFO - Successfully fetched ID for @officialjordin via profilePage pattern: 455570881
+2025-11-14 10:15:30,124 - instagram_scraper - INFO - Attempt 1/3 for @kellyrowland using account account1
+2025-11-14 10:15:30,758 - instagram_scraper - INFO - Successfully fetched ID for @kellyrowland via profilePage pattern: 46864088
+2025-11-14 10:15:33,378 - instagram_scraper - INFO - Attempt 1/3 for @ashanti using account account1
+2025-11-14 10:15:33,998 - instagram_scraper - INFO - Successfully fetched ID for @ashanti via profilePage pattern: 7950648
+2025-11-14 10:15:36,133 - instagram_scraper - INFO - Attempt 1/3 for @brandy using account account1
+2025-11-14 10:15:36,778 - instagram_scraper - INFO - Successfully fetched ID for @brandy via profilePage pattern: 11666736
+2025-11-14 10:15:40,693 - instagram_scraper - INFO - Attempt 1/3 for @monicadenise using account account1
+2025-11-14 10:15:41,314 - instagram_scraper - INFO - Successfully fetched ID for @monicadenise via profilePage pattern: 19739968
+2025-11-14 10:15:43,615 - instagram_scraper - INFO - Attempt 1/3 for @keke using account account1
+2025-11-14 10:15:44,244 - instagram_scraper - INFO - Successfully fetched ID for @keke via profilePage pattern: 1141197
+2025-11-14 10:15:48,756 - instagram_scraper - INFO - Attempt 1/3 for @taliaslife using account account1
+2025-11-14 10:15:49,463 - instagram_scraper - INFO - Successfully fetched ID for @taliaslife via profilePage pattern: 8771218780
+2025-11-14 10:15:51,656 - instagram_scraper - INFO - Attempt 1/3 for @breeuniverse using account account1
+2025-11-14 10:15:52,266 - instagram_scraper - WARNING - Failed to fetch ID for @breeuniverse: Status 200
+2025-11-14 10:15:52,267 - instagram_scraper - INFO - Waiting 3.71s before retry...
+2025-11-14 10:15:55,981 - instagram_scraper - INFO - Attempt 2/3 for @breeuniverse using account account1
+2025-11-14 10:15:56,601 - instagram_scraper - WARNING - Failed to fetch ID for @breeuniverse: Status 200
+2025-11-14 10:15:56,602 - instagram_scraper - INFO - Waiting 2.78s before retry...
+2025-11-14 10:15:59,379 - instagram_scraper - INFO - Attempt 3/3 for @breeuniverse using account account1
+2025-11-14 10:16:00,043 - instagram_scraper - WARNING - Failed to fetch ID for @breeuniverse: Status 200
+2025-11-14 10:16:00,044 - instagram_scraper - ERROR - Failed to fetch ID for @breeuniverse after 3 attempts
+2025-11-14 10:16:04,994 - instagram_scraper - INFO - Attempt 1/3 for @theweeknd using account account1
+2025-11-14 10:16:05,660 - instagram_scraper - INFO - Successfully fetched ID for @theweeknd via profilePage pattern: 266319242
+2025-11-14 10:16:07,978 - instagram_scraper - INFO - Attempt 1/3 for @chrisbrownofficial using account account1
+2025-11-14 10:16:08,613 - instagram_scraper - INFO - Successfully fetched ID for @chrisbrownofficial via profilePage pattern: 29394004
+2025-11-14 10:16:10,674 - instagram_scraper - INFO - Attempt 1/3 for @brysontriller using account account1
+2025-11-14 10:16:11,344 - instagram_scraper - INFO - Successfully fetched ID for @brysontriller via profilePage pattern: 7232294970
+2025-11-14 10:16:15,382 - instagram_scraper - INFO - Attempt 1/3 for @6lack using account account1
+2025-11-14 10:16:16,053 - instagram_scraper - INFO - Successfully fetched ID for @6lack via profilePage pattern: 5674230
+2025-11-14 10:16:20,968 - instagram_scraper - INFO - Attempt 1/3 for @danielcaesar using account account1
+2025-11-14 10:16:21,667 - instagram_scraper - INFO - Successfully fetched ID for @danielcaesar via profilePage pattern: 450952805
+2025-11-14 10:16:24,627 - instagram_scraper - INFO - Attempt 1/3 for @givon using account account1
+2025-11-14 10:16:25,284 - instagram_scraper - INFO - Successfully fetched ID for @givon via profilePage pattern: 289638
+2025-11-14 10:16:30,105 - instagram_scraper - INFO - Attempt 1/3 for @partynextdoor using account account1
+2025-11-14 10:16:30,746 - instagram_scraper - INFO - Successfully fetched ID for @partynextdoor via profilePage pattern: 34095714
+2025-11-14 10:16:35,408 - instagram_scraper - INFO - Attempt 1/3 for @tydollasign using account account1
+2025-11-14 10:16:36,016 - instagram_scraper - INFO - Successfully fetched ID for @tydollasign via profilePage pattern: 12298314
+2025-11-14 10:16:40,894 - instagram_scraper - INFO - Attempt 1/3 for @jacquees using account account1
+2025-11-14 10:16:41,541 - instagram_scraper - INFO - Successfully fetched ID for @jacquees via profilePage pattern: 7401340
+2025-11-14 10:16:43,572 - instagram_scraper - INFO - Attempt 1/3 for @miguel using account account1
+2025-11-14 10:16:44,184 - instagram_scraper - INFO - Successfully fetched ID for @miguel via profilePage pattern: 7490726
+2025-11-14 10:16:47,913 - instagram_scraper - INFO - Attempt 1/3 for @omarion using account account1
+2025-11-14 10:16:48,534 - instagram_scraper - INFO - Successfully fetched ID for @omarion via profilePage pattern: 13406336
+2025-11-14 10:16:51,123 - instagram_scraper - INFO - Attempt 1/3 for @torylanez using account account1
+2025-11-14 10:16:51,747 - instagram_scraper - INFO - Successfully fetched ID for @torylanez via profilePage pattern: 188117352
+2025-11-14 10:16:54,020 - instagram_scraper - INFO - Attempt 1/3 for @brentfaiyaz using account account1
+2025-11-14 10:16:55,427 - instagram_scraper - INFO - Successfully fetched ID for @brentfaiyaz via profilePage pattern: 1406354788
+2025-11-14 10:16:58,539 - instagram_scraper - INFO - Attempt 1/3 for @treysongz using account account1
+2025-11-14 10:16:59,208 - instagram_scraper - INFO - Successfully fetched ID for @treysongz via profilePage pattern: 13358278
+2025-11-14 10:17:02,227 - instagram_scraper - INFO - Attempt 1/3 for @usher using account account1
+2025-11-14 10:17:02,857 - instagram_scraper - INFO - Successfully fetched ID for @usher via profilePage pattern: 40949744
+2025-11-14 10:17:05,271 - instagram_scraper - INFO - Attempt 1/3 for @augustalsina using account account1
+2025-11-14 10:17:05,922 - instagram_scraper - INFO - Successfully fetched ID for @augustalsina via profilePage pattern: 24441137
+2025-11-14 10:17:08,638 - instagram_scraper - INFO - Attempt 1/3 for @luckydaye using account account1
+2025-11-14 10:17:09,220 - instagram_scraper - WARNING - Failed to fetch ID for @luckydaye: Status 200
+2025-11-14 10:17:09,221 - instagram_scraper - INFO - Waiting 2.16s before retry...
+2025-11-14 10:17:11,380 - instagram_scraper - INFO - Attempt 2/3 for @luckydaye using account account1
+2025-11-14 10:17:12,038 - instagram_scraper - WARNING - Failed to fetch ID for @luckydaye: Status 200
+2025-11-14 10:17:12,040 - instagram_scraper - INFO - Waiting 3.29s before retry...
+2025-11-14 10:17:15,334 - instagram_scraper - INFO - Attempt 3/3 for @luckydaye using account account1
+2025-11-14 10:17:15,913 - instagram_scraper - WARNING - Failed to fetch ID for @luckydaye: Status 200
+2025-11-14 10:17:15,914 - instagram_scraper - ERROR - Failed to fetch ID for @luckydaye after 3 attempts
+2025-11-14 10:17:18,761 - instagram_scraper - INFO - Attempt 1/3 for @dvsndvsn using account account1
+2025-11-14 10:17:19,315 - instagram_scraper - WARNING - Failed to fetch ID for @dvsndvsn: Status 200
+2025-11-14 10:17:19,315 - instagram_scraper - WARNING - Deactivating account account1 due to too many errors
+2025-11-14 10:17:19,315 - instagram_scraper - INFO - Waiting 3.38s before retry...
+2025-11-14 10:17:22,704 - instagram_scraper - ERROR - Unexpected error for @dvsndvsn: No active accounts available
+2025-11-14 10:17:22,704 - instagram_scraper - ERROR - Unexpected error for @dvsndvsn: No active accounts available
+2025-11-14 10:17:22,704 - instagram_scraper - ERROR - Failed to fetch ID for @dvsndvsn after 3 attempts
+2025-11-14 10:17:25,232 - instagram_scraper - ERROR - Unexpected error for @blxst: No active accounts available
+2025-11-14 10:17:25,232 - instagram_scraper - ERROR - Unexpected error for @blxst: No active accounts available
+2025-11-14 10:17:25,232 - instagram_scraper - ERROR - Unexpected error for @blxst: No active accounts available
+2025-11-14 10:17:25,232 - instagram_scraper - ERROR - Failed to fetch ID for @blxst after 3 attempts
+2025-11-14 10:17:29,605 - instagram_scraper - ERROR - Unexpected error for @masego: No active accounts available
+2025-11-14 10:17:29,606 - instagram_scraper - ERROR - Unexpected error for @masego: No active accounts available
+2025-11-14 10:17:29,606 - instagram_scraper - ERROR - Unexpected error for @masego: No active accounts available
+2025-11-14 10:17:29,606 - instagram_scraper - ERROR - Failed to fetch ID for @masego after 3 attempts
+2025-11-14 10:17:33,068 - instagram_scraper - ERROR - Unexpected error for @ericbellinger: No active accounts available
+2025-11-14 10:17:33,068 - instagram_scraper - ERROR - Unexpected error for @ericbellinger: No active accounts available
+2025-11-14 10:17:33,068 - instagram_scraper - ERROR - Unexpected error for @ericbellinger: No active accounts available
+2025-11-14 10:17:33,068 - instagram_scraper - ERROR - Failed to fetch ID for @ericbellinger after 3 attempts
+2025-11-14 10:17:35,894 - instagram_scraper - ERROR - Unexpected error for @rotimimusic: No active accounts available
+2025-11-14 10:17:35,895 - instagram_scraper - ERROR - Unexpected error for @rotimimusic: No active accounts available
+2025-11-14 10:17:35,895 - instagram_scraper - ERROR - Unexpected error for @rotimimusic: No active accounts available
+2025-11-14 10:17:35,895 - instagram_scraper - ERROR - Failed to fetch ID for @rotimimusic after 3 attempts
+2025-11-14 10:17:39,139 - instagram_scraper - ERROR - Unexpected error for @rauwalejandro: No active accounts available
+2025-11-14 10:17:39,140 - instagram_scraper - ERROR - Unexpected error for @rauwalejandro: No active accounts available
+2025-11-14 10:17:39,140 - instagram_scraper - ERROR - Unexpected error for @rauwalejandro: No active accounts available
+2025-11-14 10:17:39,140 - instagram_scraper - ERROR - Failed to fetch ID for @rauwalejandro after 3 attempts
+2025-11-14 10:17:43,059 - instagram_scraper - ERROR - Unexpected error for @realestk: No active accounts available
+2025-11-14 10:17:43,059 - instagram_scraper - ERROR - Unexpected error for @realestk: No active accounts available
+2025-11-14 10:17:43,059 - instagram_scraper - ERROR - Unexpected error for @realestk: No active accounts available
+2025-11-14 10:17:43,059 - instagram_scraper - ERROR - Failed to fetch ID for @realestk after 3 attempts
+2025-11-14 10:17:47,687 - instagram_scraper - ERROR - Unexpected error for @toosiimusic: No active accounts available
+2025-11-14 10:17:47,687 - instagram_scraper - ERROR - Unexpected error for @toosiimusic: No active accounts available
+2025-11-14 10:17:47,687 - instagram_scraper - ERROR - Unexpected error for @toosiimusic: No active accounts available
+2025-11-14 10:17:47,687 - instagram_scraper - ERROR - Failed to fetch ID for @toosiimusic after 3 attempts
+2025-11-14 10:17:49,873 - instagram_scraper - ERROR - Unexpected error for @luhkel: No active accounts available
+2025-11-14 10:17:49,873 - instagram_scraper - ERROR - Unexpected error for @luhkel: No active accounts available
+2025-11-14 10:17:49,873 - instagram_scraper - ERROR - Unexpected error for @luhkel: No active accounts available
+2025-11-14 10:17:49,873 - instagram_scraper - ERROR - Failed to fetch ID for @luhkel after 3 attempts
+2025-11-14 10:17:54,162 - instagram_scraper - ERROR - Unexpected error for @maurice.moore: No active accounts available
+2025-11-14 10:17:54,162 - instagram_scraper - ERROR - Unexpected error for @maurice.moore: No active accounts available
+2025-11-14 10:17:54,162 - instagram_scraper - ERROR - Unexpected error for @maurice.moore: No active accounts available
+2025-11-14 10:17:54,162 - instagram_scraper - ERROR - Failed to fetch ID for @maurice.moore after 3 attempts
+2025-11-14 10:17:56,172 - instagram_scraper - ERROR - Unexpected error for @yungbleu: No active accounts available
+2025-11-14 10:17:56,172 - instagram_scraper - ERROR - Unexpected error for @yungbleu: No active accounts available
+2025-11-14 10:17:56,172 - instagram_scraper - ERROR - Unexpected error for @yungbleu: No active accounts available
+2025-11-14 10:17:56,172 - instagram_scraper - ERROR - Failed to fetch ID for @yungbleu after 3 attempts
+2025-11-14 10:17:58,628 - instagram_scraper - ERROR - Unexpected error for @lildurk: No active accounts available
+2025-11-14 10:17:58,628 - instagram_scraper - ERROR - Unexpected error for @lildurk: No active accounts available
+2025-11-14 10:17:58,628 - instagram_scraper - ERROR - Unexpected error for @lildurk: No active accounts available
+2025-11-14 10:17:58,628 - instagram_scraper - ERROR - Failed to fetch ID for @lildurk after 3 attempts
+2025-11-14 10:18:02,509 - instagram_scraper - ERROR - Unexpected error for @tone.stith: No active accounts available
+2025-11-14 10:18:02,509 - instagram_scraper - ERROR - Unexpected error for @tone.stith: No active accounts available
+2025-11-14 10:18:02,509 - instagram_scraper - ERROR - Unexpected error for @tone.stith: No active accounts available
+2025-11-14 10:18:02,509 - instagram_scraper - ERROR - Failed to fetch ID for @tone.stith after 3 attempts
+2025-11-14 10:18:06,561 - instagram_scraper - ERROR - Unexpected error for @jorjasmith: No active accounts available
+2025-11-14 10:18:06,561 - instagram_scraper - ERROR - Unexpected error for @jorjasmith: No active accounts available
+2025-11-14 10:18:06,561 - instagram_scraper - ERROR - Unexpected error for @jorjasmith: No active accounts available
+2025-11-14 10:18:06,561 - instagram_scraper - ERROR - Failed to fetch ID for @jorjasmith after 3 attempts
+2025-11-14 10:18:10,180 - instagram_scraper - ERROR - Unexpected error for @phabo: No active accounts available
+2025-11-14 10:18:10,180 - instagram_scraper - ERROR - Unexpected error for @phabo: No active accounts available
+2025-11-14 10:18:10,180 - instagram_scraper - ERROR - Unexpected error for @phabo: No active accounts available
+2025-11-14 10:18:10,181 - instagram_scraper - ERROR - Failed to fetch ID for @phabo after 3 attempts
+2025-11-14 10:18:12,789 - instagram_scraper - ERROR - Unexpected error for @dylan.sinclair: No active accounts available
+2025-11-14 10:18:12,789 - instagram_scraper - ERROR - Unexpected error for @dylan.sinclair: No active accounts available
+2025-11-14 10:18:12,789 - instagram_scraper - ERROR - Unexpected error for @dylan.sinclair: No active accounts available
+2025-11-14 10:18:12,789 - instagram_scraper - ERROR - Failed to fetch ID for @dylan.sinclair after 3 attempts
+Scraping 66 username(s) using 1 account(s)...
+
+Results saved to test_results.json
+
+Summary: 47/66 successful
+ts
+2025-11-14 10:15:32,519 - instagram_scraper - ERROR - Unexpected error for @omarion: No active accounts available
+2025-11-14 10:15:32,520 - instagram_scraper - ERROR - Unexpected error for @omarion: No active accounts available
+2025-11-14 10:15:32,520 - instagram_scraper - ERROR - Unexpected error for @omarion: No active accounts available
+2025-11-14 10:15:32,520 - instagram_scraper - ERROR - Failed to fetch ID for @omarion after 3 attempts
+2025-11-14 10:15:36,007 - instagram_scraper - ERROR - Unexpected error for @torylanez: No active accounts available
+2025-11-14 10:15:36,007 - instagram_scraper - ERROR - Unexpected error for @torylanez: No active accounts available
+2025-11-14 10:15:36,007 - instagram_scraper - ERROR - Unexpected error for @torylanez: No active accounts available
+2025-11-14 10:15:36,007 - instagram_scraper - ERROR - Failed to fetch ID for @torylanez after 3 attempts
+2025-11-14 10:15:39,291 - instagram_scraper - ERROR - Unexpected error for @brentfaiyaz: No active accounts available
+2025-11-14 10:15:39,291 - instagram_scraper - ERROR - Unexpected error for @brentfaiyaz: No active accounts available
+2025-11-14 10:15:39,291 - instagram_scraper - ERROR - Unexpected error for @brentfaiyaz: No active accounts available
+2025-11-14 10:15:39,291 - instagram_scraper - ERROR - Failed to fetch ID for @brentfaiyaz after 3 attempts
+2025-11-14 10:15:41,631 - instagram_scraper - ERROR - Unexpected error for @treysongz: No active accounts available
+2025-11-14 10:15:41,631 - instagram_scraper - ERROR - Unexpected error for @treysongz: No active accounts available
+2025-11-14 10:15:41,631 - instagram_scraper - ERROR - Unexpected error for @treysongz: No active accounts available
+2025-11-14 10:15:41,631 - instagram_scraper - ERROR - Failed to fetch ID for @treysongz after 3 attempts
+2025-11-14 10:15:44,808 - instagram_scraper - ERROR - Unexpected error for @usher: No active accounts available
+2025-11-14 10:15:44,808 - instagram_scraper - ERROR - Unexpected error for @usher: No active accounts available
+2025-11-14 10:15:44,808 - instagram_scraper - ERROR - Unexpected error for @usher: No active accounts available
+2025-11-14 10:15:44,808 - instagram_scraper - ERROR - Failed to fetch ID for @usher after 3 attempts
+2025-11-14 10:15:48,006 - instagram_scraper - ERROR - Unexpected error for @augustalsina: No active accounts available
+2025-11-14 10:15:48,006 - instagram_scraper - ERROR - Unexpected error for @augustalsina: No active accounts available
+2025-11-14 10:15:48,006 - instagram_scraper - ERROR - Unexpected error for @augustalsina: No active accounts available
+2025-11-14 10:15:48,006 - instagram_scraper - ERROR - Failed to fetch ID for @augustalsina after 3 attempts
+2025-11-14 10:15:50,399 - instagram_scraper - ERROR - Unexpected error for @luckydaye: No active accounts available
+2025-11-14 10:15:50,400 - instagram_scraper - ERROR - Unexpected error for @luckydaye: No active accounts available
+2025-11-14 10:15:50,400 - instagram_scraper - ERROR - Unexpected error for @luckydaye: No active accounts available
+2025-11-14 10:15:50,400 - instagram_scraper - ERROR - Failed to fetch ID for @luckydaye after 3 attempts
+2025-11-14 10:15:53,041 - instagram_scraper - ERROR - Unexpected error for @dvsndvsn: No active accounts available
+2025-11-14 10:15:53,041 - instagram_scraper - ERROR - Unexpected error for @dvsndvsn: No active accounts available
+2025-11-14 10:15:53,041 - instagram_scraper - ERROR - Unexpected error for @dvsndvsn: No active accounts available
+2025-11-14 10:15:53,041 - instagram_scraper - ERROR - Failed to fetch ID for @dvsndvsn after 3 attempts
+2025-11-14 10:15:57,039 - instagram_scraper - ERROR - Unexpected error for @blxst: No active accounts available
+2025-11-14 10:15:57,040 - instagram_scraper - ERROR - Unexpected error for @blxst: No active accounts available
+2025-11-14 10:15:57,040 - instagram_scraper - ERROR - Unexpected error for @blxst: No active accounts available
+2025-11-14 10:15:57,040 - instagram_scraper - ERROR - Failed to fetch ID for @blxst after 3 attempts
+2025-11-14 10:16:00,491 - instagram_scraper - ERROR - Unexpected error for @masego: No active accounts available
+2025-11-14 10:16:00,491 - instagram_scraper - ERROR - Unexpected error for @masego: No active accounts available
+2025-11-14 10:16:00,491 - instagram_scraper - ERROR - Unexpected error for @masego: No active accounts available
+2025-11-14 10:16:00,491 - instagram_scraper - ERROR - Failed to fetch ID for @masego after 3 attempts
+2025-11-14 10:16:04,089 - instagram_scraper - ERROR - Unexpected error for @ericbellinger: No active accounts available
+2025-11-14 10:16:04,090 - instagram_scraper - ERROR - Unexpected error for @ericbellinger: No active accounts available
+2025-11-14 10:16:04,090 - instagram_scraper - ERROR - Unexpected error for @ericbellinger: No active accounts available
+2025-11-14 10:16:04,090 - instagram_scraper - ERROR - Failed to fetch ID for @ericbellinger after 3 attempts
+2025-11-14 10:16:07,764 - instagram_scraper - ERROR - Unexpected error for @rotimimusic: No active accounts available
+2025-11-14 10:16:07,764 - instagram_scraper - ERROR - Unexpected error for @rotimimusic: No active accounts available
+2025-11-14 10:16:07,764 - instagram_scraper - ERROR - Unexpected error for @rotimimusic: No active accounts available
+2025-11-14 10:16:07,764 - instagram_scraper - ERROR - Failed to fetch ID for @rotimimusic after 3 attempts
+2025-11-14 10:16:10,115 - instagram_scraper - ERROR - Unexpected error for @rauwalejandro: No active accounts available
+2025-11-14 10:16:10,115 - instagram_scraper - ERROR - Unexpected error for @rauwalejandro: No active accounts available
+2025-11-14 10:16:10,115 - instagram_scraper - ERROR - Unexpected error for @rauwalejandro: No active accounts available
+2025-11-14 10:16:10,115 - instagram_scraper - ERROR - Failed to fetch ID for @rauwalejandro after 3 attempts
+2025-11-14 10:16:13,428 - instagram_scraper - ERROR - Unexpected error for @realestk: No active accounts available
+2025-11-14 10:16:13,428 - instagram_scraper - ERROR - Unexpected error for @realestk: No active accounts available
+2025-11-14 10:16:13,428 - instagram_scraper - ERROR - Unexpected error for @realestk: No active accounts available
+2025-11-14 10:16:13,429 - instagram_scraper - ERROR - Failed to fetch ID for @realestk after 3 attempts
+2025-11-14 10:16:17,760 - instagram_scraper - ERROR - Unexpected error for @toosiimusic: No active accounts available
+2025-11-14 10:16:17,760 - instagram_scraper - ERROR - Unexpected error for @toosiimusic: No active accounts available
+2025-11-14 10:16:17,760 - instagram_scraper - ERROR - Unexpected error for @toosiimusic: No active accounts available
+2025-11-14 10:16:17,760 - instagram_scraper - ERROR - Failed to fetch ID for @toosiimusic after 3 attempts
+2025-11-14 10:16:20,299 - instagram_scraper - ERROR - Unexpected error for @luhkel: No active accounts available
+2025-11-14 10:16:20,300 - instagram_scraper - ERROR - Unexpected error for @luhkel: No active accounts available
+2025-11-14 10:16:20,300 - instagram_scraper - ERROR - Unexpected error for @luhkel: No active accounts available
+2025-11-14 10:16:20,300 - instagram_scraper - ERROR - Failed to fetch ID for @luhkel after 3 attempts
+2025-11-14 10:16:24,280 - instagram_scraper - ERROR - Unexpected error for @maurice.moore: No active accounts available
+2025-11-14 10:16:24,281 - instagram_scraper - ERROR - Unexpected error for @maurice.moore: No active accounts available
+2025-11-14 10:16:24,281 - instagram_scraper - ERROR - Unexpected error for @maurice.moore: No active accounts available
+2025-11-14 10:16:24,281 - instagram_scraper - ERROR - Failed to fetch ID for @maurice.moore after 3 attempts
+2025-11-14 10:16:26,335 - instagram_scraper - ERROR - Unexpected error for @yungbleu: No active accounts available
+2025-11-14 10:16:26,335 - instagram_scraper - ERROR - Unexpected error for @yungbleu: No active accounts available
+2025-11-14 10:16:26,336 - instagram_scraper - ERROR - Unexpected error for @yungbleu: No active accounts available
+2025-11-14 10:16:26,336 - instagram_scraper - ERROR - Failed to fetch ID for @yungbleu after 3 attempts
+2025-11-14 10:16:30,372 - instagram_scraper - ERROR - Unexpected error for @lildurk: No active accounts available
+2025-11-14 10:16:30,372 - instagram_scraper - ERROR - Unexpected error for @lildurk: No active accounts available
+2025-11-14 10:16:30,372 - instagram_scraper - ERROR - Unexpected error for @lildurk: No active accounts available
+2025-11-14 10:16:30,372 - instagram_scraper - ERROR - Failed to fetch ID for @lildurk after 3 attempts
+2025-11-14 10:16:32,625 - instagram_scraper - ERROR - Unexpected error for @tone.stith: No active accounts available
+2025-11-14 10:16:32,625 - instagram_scraper - ERROR - Unexpected error for @tone.stith: No active accounts available
+2025-11-14 10:16:32,625 - instagram_scraper - ERROR - Unexpected error for @tone.stith: No active accounts available
+2025-11-14 10:16:32,625 - instagram_scraper - ERROR - Failed to fetch ID for @tone.stith after 3 attempts
+2025-11-14 10:16:36,147 - instagram_scraper - ERROR - Unexpected error for @jorjasmith: No active accounts available
+2025-11-14 10:16:36,147 - instagram_scraper - ERROR - Unexpected error for @jorjasmith: No active accounts available
+2025-11-14 10:16:36,147 - instagram_scraper - ERROR - Unexpected error for @jorjasmith: No active accounts available
+2025-11-14 10:16:36,148 - instagram_scraper - ERROR - Failed to fetch ID for @jorjasmith after 3 attempts
+2025-11-14 10:16:39,458 - instagram_scraper - ERROR - Unexpected error for @phabo: No active accounts available
+2025-11-14 10:16:39,459 - instagram_scraper - ERROR - Unexpected error for @phabo: No active accounts available
+2025-11-14 10:16:39,459 - instagram_scraper - ERROR - Unexpected error for @phabo: No active accounts available
+2025-11-14 10:16:39,459 - instagram_scraper - ERROR - Failed to fetch ID for @phabo after 3 attempts
+2025-11-14 10:16:42,844 - instagram_scraper - ERROR - Unexpected error for @dylan.sinclair: No active accounts available
+2025-11-14 10:16:42,844 - instagram_scraper - ERROR - Unexpected error for @dylan.sinclair: No active accounts available
+2025-11-14 10:16:42,844 - instagram_scraper - ERROR - Unexpected error for @dylan.sinclair: No active accounts available
+2025-11-14 10:16:42,844 - instagram_scraper - ERROR - Failed to fetch ID for @dylan.sinclair after 3 attempts
+Scraping 66 username(s) using 1 account(s)...
+
+Results saved to test_results.json
+
+Summary: 0/66 successful
